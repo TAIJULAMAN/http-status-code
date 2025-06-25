@@ -1,3 +1,5 @@
+** Some important http status **
+
 ### **200 OK**
 - **Category:** Success
 - **Description:** This status code indicates that the request has succeeded. The meaning of the success depends on the HTTP method:
